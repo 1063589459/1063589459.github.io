@@ -1,11 +1,11 @@
 default:
   text_skin: default
   highlight_theme: default
-  lang: zh
+  lang: en
   paths:
     root: /
     home: /
-    archive:  /archive/
+    archive:  /archive.html
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
