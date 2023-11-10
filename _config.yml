@@ -181,7 +181,10 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+# 之前是通过日期作子目录的方式, 注释掉
+# permalink   : date
+# 添加category内容
+permalink: /:categories/:title/
 
 exclude:
   - CHANGELOG.md
