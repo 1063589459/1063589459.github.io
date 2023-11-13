@@ -31,7 +31,7 @@ components:
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 5
     # 文章字数统计
     word_count:
@@ -60,9 +60,9 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: 1063589459
+location: Xiamen, China
+email: 1063589459@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -90,9 +90,9 @@ navs:
   #   href: /fragments/
   #   label: 片段
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+  #   href: /wiki/
+  #   label: 维基
 
   # -
   #   href: /links/
